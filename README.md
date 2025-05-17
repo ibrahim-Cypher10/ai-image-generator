@@ -1,4 +1,4 @@
-# 🎨 AI Image Generator by Ibrahim
+# 🎨 AI Image Generator
 
 A powerful text-to-image generation application built with Streamlit and Stable Diffusion, featuring a modern dark theme interface and comprehensive image management system.
 
