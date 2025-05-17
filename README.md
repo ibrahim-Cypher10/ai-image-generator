@@ -1,4 +1,6 @@
-# 🎨 AI Image Generator
+# 🎨 AI Image Generator 
+# By Ibrahim Ahmed Khan
+# Github Link to the codebase: https://github.com/ibrahim-Cypher10/ai-image-generator.git
 
 A powerful text-to-image generation application built with Streamlit and Stable Diffusion, featuring a modern dark theme interface and comprehensive image management system.
 
