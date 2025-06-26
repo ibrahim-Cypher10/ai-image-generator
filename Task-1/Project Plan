@@ -1,0 +1,34 @@
+Task 1: Text-to-Image Generation Using Stable Diffusion
+Expected duration: 5 days
+Task Overview
+Objective:
+
+Build a mini web application that takes a text prompt from a user and generates an image using Stable Diffusion.
+
+Deliverables:
+
+Web interface (Flask/Streamlit)
+
+
+Prompt history viewer
+
+
+Image gallery
+
+
+Evaluation report comparing images to prompt expectations
+
+
+Key Tools: Stable Diffusion, Hugging Face, Python, Streamlit, MongoDB/SQLite
+
+Mock Data:
+
+[
+
+  {"prompt": "a fantasy castle in the clouds", "expected_style": "realistic"},
+
+  {"prompt": "a futuristic robot chef in a kitchen", "expected_style": "cyberpunk"},
+
+  {"prompt": "a panda riding a bicycle in space", "expected_style": "cartoon"}
+
+]
